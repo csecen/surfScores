@@ -1,0 +1,7 @@
+# Don't track these directories
+.ipynb_checkpoints
+
+# Don't track these files
+geckodriver.log
+.~lock.combined_csv.csv#
+testFile.ipynb
